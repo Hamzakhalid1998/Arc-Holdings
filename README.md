@@ -21,8 +21,8 @@ A **responsive, modern portfolio website** for ARC Holdings, built from scratch 
 
 ## Live Demo
 
-[https://arch-holdings.netlify.app](https://arch-holdings.netlify.app)
+[https://willowy-dodol-2bcea1.netlify.app/]
 
 ## Repository
 
-[https://github.com/yourusername/arc-holdings](https://github.com/yourusername/arc-holdings)
+[https://github.com/Hamzakhalid1998/Arc-Holdings]
